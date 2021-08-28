@@ -15,3 +15,5 @@ Start typing again.
 2. This is number 2.
 3. Now I have 2 number 3's
 4. It's not quite automatic though.
+* Andrew made a change to Simons file.md
+# **this is in bold**
