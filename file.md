@@ -18,4 +18,7 @@ Start typing again.
 * Andrew made a change to Simons file.md
 # **this is in bold**
 
-Simon WAS HERE!
+Simon was HERE!
+
+* Monique was here
+
