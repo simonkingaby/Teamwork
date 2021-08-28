@@ -17,3 +17,5 @@ Start typing again.
 4. It's not quite automatic though.
 * Andrew made a change to Simons file.md
 # **this is in bold**
+
+Simon WAS HERE!
