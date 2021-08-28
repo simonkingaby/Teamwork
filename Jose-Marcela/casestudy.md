@@ -7,7 +7,7 @@
 Plaid is a software company that provides API’s for application software to communicate with banks
 about customer accounts via language agnostic JSON. [^1]
 
-[^1]: Plaid Case Study Proposal [PDF](https://miami.bootcampcontent.com/-/ide/project/Miami-Boot-Camp/mia-virt-fin-pt-08-2021-u-c/tree/master/-/Class%20Activities/01-Intro-to-FinTech/3/04-Stu_Group_Case_Study/Resources/07_Plaid%20Case%20Study%20Proposal.pdf/)
+[^1]: Plaid Case Study Proposal
 
 **Contributors**
 Marcela Castaño
@@ -22,7 +22,7 @@ Marcela Castaño
 
 #### *What do they do? Who are their competitors?*
 
-Plaid allows users to connect their bank accounts 
+Plaid allows users to connect their bank accounts.
 
 Competitors: Nymbus, Yapily, Solarisbank, Orum, Tink and more. [^3]
 
