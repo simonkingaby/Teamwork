@@ -5,7 +5,7 @@
 ## Description
 
 Plaid is a software company that provides API’s for application software to communicate with banks
-about customer accounts via language agnostic JSON. 
+about customer accounts via language agnostic JSON. [^1]
 
 [^1]: Plaid Case Study Proposal [PDF](https://miami.bootcampcontent.com/-/ide/project/Miami-Boot-Camp/mia-virt-fin-pt-08-2021-u-c/tree/master/-/Class%20Activities/01-Intro-to-FinTech/3/04-Stu_Group_Case_Study/Resources/07_Plaid%20Case%20Study%20Proposal.pdf/)
 
@@ -16,15 +16,15 @@ Marcela Castaño
 
 #### *What is the background of your company?*
 
-"Plaid was founded in 2013 by Zach Perret and William Hockey. The pair originally attempted to build consumer financial management products, including budgeting and bookkeeping software. When confronted with difficulties in connecting bank accounts required for these tools, they decided to pivot their core business focus to a unified banking API."
+"Plaid was founded in 2013 by Zach Perret and William Hockey. The pair originally attempted to build consumer financial management products, including budgeting and bookkeeping software. When confronted with difficulties in connecting bank accounts required for these tools, they decided to pivot their core business focus to a unified banking API." [^2]
 
-[^2] [Wikipedia](https://en.wikipedia.org/wiki/Plaid_(company))
+[^2]: [Wikipedia](https://en.wikipedia.org/wiki/Plaid_(company))
 
 #### *What do they do? Who are their competitors?*
 
 Plaid allows users to connect their bank accounts 
 
-Competitors: Nymbus, Yapily, Solarisbank, Orum, Tink and more. 
+Competitors: Nymbus, Yapily, Solarisbank, Orum, Tink and more. [^3]
 
 [^3]: [CBNInsights](https://www.cbinsights.com/company/plaid-technologies/competitors-partners)
 
